@@ -7,9 +7,9 @@ TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 
 LINKS = InlineKeyboardMarkup(
     [
-        [InlineKeyboardButton("📢 Our Channel", url="https://t.me/yourchannel")],
-        [InlineKeyboardButton("💬 Main Group", url="https://t.me/yourgroup")],
-        [InlineKeyboardButton("🔗 Extra Group", url="https://t.me/othergroup")],
+        [InlineKeyboardButton("📢 Our Channel", url="https://t.me/+vRcZSVHv2rAzYTYx")],
+        [InlineKeyboardButton("💬 Main Chat", url="https://t.me/+vHy2DjR6LZU0OTVh")],
+        [InlineKeyboardButton("🔗 Shrike Lounge", url="https://t.me/+bOOdbK4vPU05N2Vh")],
     ]
 )
 
